@@ -1,0 +1,941 @@
+[
+  {
+    "id": "canon-a-fonte-primordial",
+    "kind": "lore",
+    "title": "A Fonte Primordial",
+    "summary": "A força mais antiga registrada em Aetheris.",
+    "content": "## Antes dos deuses\nA Fonte não é classificada como deus, magia ou artefato. Ela antecede as ordens atuais do mundo e altera corpo, alma e mente.\n\nEla amplifica o que já existe em quem a encontra. Quatro seres a alcançaram: Toth, Isis, Montus e Apep. Os três primeiros se tornaram os deuses fundadores; Apep foi consumido por sua vontade corrompida.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "História"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 9,
+      "document": "lore"
+    }
+  },
+  {
+    "id": "canon-a-guerra-dos-deuses",
+    "kind": "lore",
+    "title": "A Guerra dos Deuses",
+    "summary": "O conflito que rompeu o mundo e ergueu as ilhas.",
+    "content": "## O conflito\nToth, Isis e Montus enfrentaram Apep. Toth usou conhecimentos e selos; Isis separou a essência espiritual da corrupção; Montus rompeu o corpo do corrompido.\n\n## A ruptura\nA energia da guerra ergueu massas de terra, cidades, florestas e reinos. Os sobreviventes criaram pontes, rotas aéreas e navios voadores.\n\nA versão oficial afirma que Apep foi destruído.",
+    "secret": "Não há consenso absoluto sobre a morte de Apep. Registros proibidos sugerem que ele desejava libertar o mundo de qualquer limite, inclusive morte, corpo e alma.",
+    "data": {
+      "tags": [
+        "História"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 10,
+      "document": "lore"
+    }
+  },
+  {
+    "id": "canon-palacio-celestial",
+    "kind": "city",
+    "title": "Palácio Celestial",
+    "summary": "O centro da autoridade divina nas ilhas mais altas.",
+    "content": "Erguido após a Guerra dos Deuses, centraliza registros históricos, julgamentos, criação e comando dos anjos e administração do ciclo das almas.\n\nTambém preserva a versão oficial da guerra e censura conhecimentos proibidos. Para fiéis, representa proteção; para críticos, uma prisão de verdades.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Local"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 10,
+      "document": "lore"
+    }
+  },
+  {
+    "id": "canon-o-nucleo-das-almas",
+    "kind": "lore",
+    "title": "O Núcleo das Almas",
+    "summary": "A criação de Isis que organiza a passagem dos mortos.",
+    "content": "Isis criou o Núcleo depois da guerra, quando milhares de almas vagavam sem destino.\n\nQuando uma criatura morre, sua alma é conduzida ao Núcleo para ser armazenada, julgada, purificada, redirecionada ou preparada para repouso.",
+    "secret": "O Núcleo foi roubado. O Palácio Celestial mantém o roubo em segredo. A crise ameaça o ciclo da morte em todo o mundo; Lethra, Tsukihana e Borda do Abismo estão entre as primeiras regiões afetadas.",
+    "data": {
+      "tags": [
+        "Cosmologia"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 10,
+      "document": "lore"
+    }
+  },
+  {
+    "id": "canon-a-hierarquia-dos-anjos",
+    "kind": "lore",
+    "title": "A hierarquia dos anjos",
+    "summary": "Seres criados para executar funções dos deuses.",
+    "content": "Os anjos mais antigos foram moldados à imagem dos deuses e são maiores que os criados posteriormente.\n\n- Serafins: autoridade máxima abaixo dos deuses.\n- Arcanjos: comandantes, executores e investigadores.\n- Anjos de Função: tarefas específicas.\n- Anjos Menores: mensageiros, soldados e guardiões.\n- Anjos Caídos: exilados, corrompidos ou rebeldes lançados ao Abismo.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Cosmologia"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 11,
+      "document": "lore"
+    }
+  },
+  {
+    "id": "canon-as-camadas-do-mundo",
+    "kind": "lore",
+    "title": "As camadas do mundo",
+    "summary": "Ilhas Superiores, Céu Intermediário, Borda e Abismo.",
+    "content": "## Ilhas Superiores\nCamada civilizada, onde estão Elyndar, Vharos, Lethra Velada, Veylan Nexus, Tsukihana e Sahra’Nür.\n\n## Céu Intermediário\nEspaço entre as regiões: rotas comerciais, correntes de vento, ilhas derivantes, tempestades, portos aéreos e navios.\n\n## Borda do Abismo\nFronteira geográfica e espiritual. Quanto mais perto dela, mais frágil se torna a proteção da alma.\n\n## Abismo\nA antiga superfície do mundo, destruída e espiritualmente corrompida depois da guerra.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Cosmologia"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 13,
+      "document": "lore"
+    }
+  },
+  {
+    "id": "canon-a-alma-e-o-ciclo-da-morte",
+    "kind": "lore",
+    "title": "A alma e o ciclo da morte",
+    "summary": "Identidade, passagem, bênçãos e corrupção.",
+    "content": "Todo ser vivo possui alma. Ela sustenta identidade, passagem após a morte, vínculo com bênçãos, resistência a pactos e corrupção.\n\nA magia divina ocorre quando um deus abençoa a alma. A magia abissal surge quando uma entidade grava um pacto nela.\n\nO ciclo ideal conduz a alma ao Núcleo e então ao repouso, julgamento ou redirecionamento. Falhas geram mortos-vivos, possessões, almas presas, espíritos agressivos e regiões assombradas.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Cosmologia"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 14,
+      "document": "lore"
+    }
+  },
+  {
+    "id": "canon-toth",
+    "kind": "npc",
+    "title": "Toth",
+    "summary": "Sabedoria, escrita, criação, leis, runas e ordem.",
+    "content": "Racional, criador, controlador e observador. Cultuado em Elyndar, Veylan Nexus, bibliotecas e torres de estudo. Transformou caos em estrutura.",
+    "secret": "Frieza extrema, obsessão por controle e dificuldade de ver indivíduos.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 16,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-isis",
+    "kind": "npc",
+    "title": "Isis",
+    "summary": "Alma, morte, passagem, memória, repouso e luto.",
+    "content": "Compassiva e protetora dos mortos. Criou o Núcleo das Almas. Seus cultos ensinam que a morte deve ser conduzida corretamente. Cultuada em Lethra Velada e Sahra’Nür.",
+    "secret": "Apego excessivo à morte e desejo de controlar o destino das almas.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 17,
+      "document": "lore",
+      "occupation": "Divindade",
+      "art": "isis.jpg",
+      "portrait": true
+    }
+  },
+  {
+    "id": "canon-montus",
+    "kind": "npc",
+    "title": "Montus",
+    "summary": "Corpo, força, sangue, resistência, combate e vitalidade.",
+    "content": "Divindade original de Aetheris e um dos três fundadores. Rompeu o corpo de Apep. Tem presença especial em Vharos, onde organiza os grandes torneios do Coliseu Carmesim. Valoriza resistência e honestidade em combate.",
+    "secret": "Vício em combate, desprezo por fraqueza e incapacidade de resolver conflitos sem violência.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 18,
+      "document": "lore",
+      "occupation": "Divindade",
+      "art": "montus.jpg",
+      "portrait": true
+    }
+  },
+  {
+    "id": "canon-nyx",
+    "kind": "npc",
+    "title": "Nyx",
+    "summary": "Noite, lua, sombras, sonhos, segredos e rejeitados.",
+    "content": "Melancólica, protetora e misteriosa. Seus cultos estão em Tsukihana, Lethra e comunidades marginalizadas. Seu culto costuma ser reprimido em regiões solares.",
+    "secret": "Mãe de Lyssandra e irmã de Hélio. Foi aprisionada por cinco deuses após sua união proibida com Ykarus. Fonte: página 20.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 19,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-helio",
+    "kind": "npc",
+    "title": "Hélio",
+    "summary": "Sol, dia, revelação, julgamento e purificação.",
+    "content": "Rígido, revelador e punitivo. Cultuado em Elyndar, fortalezas judiciais e ordens inquisitoriais. Representa a luz que expõe.",
+    "secret": "Fanatismo e julgamento sem compaixão.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 20,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-zeus",
+    "kind": "npc",
+    "title": "Zeus",
+    "summary": "Tempestade, autoridade, soberania e juramentos.",
+    "content": "Dominante e régio. Cultuado em Elyndar, Vharos e fortalezas militares por líderes, comandantes e nobres.",
+    "secret": "Autoritarismo, arrogância e desejo de submissão.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 21,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-hera",
+    "kind": "npc",
+    "title": "Hera",
+    "summary": "Linhagem, família, realeza e continuidade.",
+    "content": "Protetora das famílias e alianças formais. Seu culto é forte em casas nobres de Elyndar.",
+    "secret": "Obsessão por sangue nobre, perseguição a uniões proibidas e controle familiar.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 21,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-atena",
+    "kind": "npc",
+    "title": "Atena",
+    "summary": "Estratégia, sabedoria militar, técnica e defesa.",
+    "content": "Racional, tática e disciplinada. Cultuada em Veylan Nexus, Elyndar e escolas militares.",
+    "secret": "Tratar a guerra como cálculo sem considerar sofrimento.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 22,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-ares",
+    "kind": "npc",
+    "title": "Ares",
+    "summary": "Guerra, fúria, violência, coragem e sangue em batalha.",
+    "content": "Agressivo, direto e impulsivo. Cultuado em Vharos, clãs guerreiros e arenas.",
+    "secret": "Massacre, sede de sangue e perda de controle.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 23,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-afrodite",
+    "kind": "npc",
+    "title": "Afrodite",
+    "summary": "Beleza, desejo, fascínio, influência e obsessão.",
+    "content": "Política e refinada. Seu culto aparece em cortes nobres, salões diplomáticos e entre artistas e espiões.",
+    "secret": "Transformar amor em posse, manipulação e dependência.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 23,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-apolo",
+    "kind": "npc",
+    "title": "Apolo",
+    "summary": "Música, profecia, cura, luz artística e harmonia.",
+    "content": "Profético e harmonizador. Cultuado por bardos, médicos, oráculos e artistas.",
+    "secret": "Obsessão por perfeição e harmonia forçada.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 24,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-artemis",
+    "kind": "npc",
+    "title": "Ártemis",
+    "summary": "Caça, lua selvagem, florestas e proteção.",
+    "content": "Caçadora silenciosa. Protege povos afastados das cidades. Cultuada em Tsukihana e comunidades Avaris e Feliri.",
+    "secret": "Isolamento extremo e caça como obsessão.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 25,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-hermes",
+    "kind": "npc",
+    "title": "Hermes",
+    "summary": "Viagem, comércio, mensagens, furtividade e rotas.",
+    "content": "Rápido, esperto e ambíguo. Cultuado nas Ilhas Derivantes, Sahra’Nür e rotas mercantes.",
+    "secret": "Trapaça compulsiva, falta de lealdade e vício em vantagem.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 25,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-hades",
+    "kind": "npc",
+    "title": "Hades",
+    "summary": "Mortos, sepulturas, riquezas subterrâneas e silêncio.",
+    "content": "Reservado, severo e estável. Relacionado a Lethra, Borda do Abismo e criptas. Hades não governa o Abismo.",
+    "secret": "Frieza absoluta e desejo de manter tudo enterrado.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 26,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-poseidon",
+    "kind": "npc",
+    "title": "Poseidon",
+    "summary": "Águas suspensas, mares antigos, tempestades e tremores.",
+    "content": "Instável e territorial. Cultuado em ilhas com lagos, cachoeiras celestiais e ruínas marítimas.",
+    "secret": "Destruição por orgulho.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 27,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-osiris",
+    "kind": "npc",
+    "title": "Osíris",
+    "summary": "Morte justa, renascimento e julgamento pós-morte.",
+    "content": "Juiz restaurador e sereno. Associado ao retorno ordenado da vida e ao julgamento equilibrado dos mortos.",
+    "secret": "Transformar julgamento em condenação fixa e negar mudança.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 27,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-anubis",
+    "kind": "npc",
+    "title": "Anúbis",
+    "summary": "Guarda dos mortos, mumificação, pesagem da alma e tumbas.",
+    "content": "Guardião silencioso e preciso. Protege os mortos e os rituais funerários em Lethra e Sahra’Nür.",
+    "secret": "Rigidez ritualística e punição excessiva.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 28,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-ra",
+    "kind": "npc",
+    "title": "Rá",
+    "summary": "Sol primordial, criação, realeza solar e fogo celeste.",
+    "content": "Criador, majestoso e antigo. É uma divindade solar mais antiga que Hélio. Enquanto Hélio revela e julga, Rá cria e sustenta.",
+    "secret": "Superioridade divina e culto à realeza absoluta.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 29,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-sekhmet",
+    "kind": "npc",
+    "title": "Sekhmet",
+    "summary": "Guerra, praga, cura violenta e fúria solar.",
+    "content": "Feroz, curativa e destrutiva. Procurada por guerreiros e curandeiros em Vharos e Sahra’Nür.",
+    "secret": "Extermínio em nome da cura.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 29,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-bastet",
+    "kind": "npc",
+    "title": "Bastet",
+    "summary": "Gatos, proteção, dança, lar e vigilância noturna.",
+    "content": "Graciosa e vigilante. Cultuada por Feliri, famílias urbanas, dançarinos e guardiões domésticos.",
+    "secret": "Proteção possessiva e manipulação suave.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 30,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-seth",
+    "kind": "npc",
+    "title": "Seth",
+    "summary": "Deserto, caos, tempestade seca, violência e ruptura.",
+    "content": "Instável, libertador e destrutivo. Cultuado por sobreviventes do deserto em Sahra’Nür e Vharos.",
+    "secret": "Destruição sem reconstrução.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 31,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-horus",
+    "kind": "npc",
+    "title": "Hórus",
+    "summary": "Céu, visão, falcões, realeza e vingança justa.",
+    "content": "Vigilante, régio e preciso. Cultuado por Avaris, arqueiros, vigias, reis e navegadores celestes.",
+    "secret": "Vigilância excessiva e vingança como identidade.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 31,
+      "document": "lore",
+      "occupation": "Divindade"
+    }
+  },
+  {
+    "id": "canon-apep",
+    "kind": "npc",
+    "title": "Apep",
+    "summary": "O quarto ser que alcançou a Fonte Primordial.",
+    "content": "A Fonte ampliou sua vontade corrompida. Apep tornou-se uma entidade de ruína, sobrevivência e distorção. Foi derrotado por Toth, Isis e Montus.",
+    "secret": "Sua morte não é consenso. A instabilidade do Núcleo pode enfraquecer antigas barreiras; sua sobrevivência fragmentada é uma possibilidade, não uma certeza.",
+    "data": {
+      "tags": [
+        "Divindade"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 9,
+      "document": "lore",
+      "occupation": "Entidade primordial"
+    }
+  },
+  {
+    "id": "canon-elyndar",
+    "kind": "city",
+    "title": "Elyndar",
+    "summary": "Região celestial central.",
+    "content": "Ilhas brancas, pontes monumentais, catedrais e jardins suspensos. Governada por aristocracia religiosa supervisionada por autoridades celestiais. Valoriza ordem, pureza, disciplina, hierarquia e fé pública.\n\nReferências: Capital Elyndar, Ponte do Sol, Templo do Ciclo, Forte Aureon, Porto Aéreo de Lúmen e Jardins Suspensos da Harmonia.",
+    "secret": "Intriga política, investigação religiosa, julgamentos injustos e segredos do Palácio.",
+    "data": {
+      "tags": [
+        "Região"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 34,
+      "document": "lore",
+      "region": "Elyndar",
+      "art": "elyndar.jpg"
+    }
+  },
+  {
+    "id": "canon-vharos",
+    "kind": "city",
+    "title": "Vharos",
+    "summary": "A região dos clãs, das arenas e da honra.",
+    "content": "Ilhas vermelhas e rochosas, correntes, fortalezas e campos de treino. Conselho de clãs e campeões, com influência do culto de Montus.\n\nReferências: Coliseu Carmesim, Forte da Matilha, Picos Carmesins, Mercado de Ossos e Campo das Bandeiras Queimadas.",
+    "secret": "Torneios, alianças de clãs e conflitos de honra. Montus é considerado juiz supremo dos grandes torneios.",
+    "data": {
+      "tags": [
+        "Região"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 35,
+      "document": "lore",
+      "region": "Vharos",
+      "art": "vharos.jpg"
+    }
+  },
+  {
+    "id": "canon-lethra-velada",
+    "kind": "city",
+    "title": "Lethra Velada",
+    "summary": "Névoa, memória e respeito aos mortos.",
+    "content": "Região espiritual regida por círculos funerários e sacerdotes da passagem. Abriga ruínas, cemitérios suspensos, sinos e rios de memória.\n\nReferências: Santuário das Almas, Ruínas de Lethra, Névoa Eterna, Vigília dos Esquecidos, Círculo dos Ascendentes e Velmora, a Ilha dos Sinos Mortos.",
+    "secret": "Após o roubo do Núcleo, os mortos deixaram de partir. Templos estão sobrecarregados e sacerdotes ouvem vozes demais.",
+    "data": {
+      "tags": [
+        "Região"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 37,
+      "document": "lore",
+      "region": "Lethra Velada",
+      "art": "lethra.jpg"
+    }
+  },
+  {
+    "id": "canon-veylan-nexus",
+    "kind": "city",
+    "title": "Veylan Nexus",
+    "summary": "Razão, disciplina e conhecimento arcano.",
+    "content": "Ilhas geométricas, observatórios, torres, pontes de energia e cristais azuis. Conselho de mentes superiores, arquivistas e estrategistas.\n\nReferências: Nexus Central, Torre Mental, Observatório Estelar, Arcos de Ressonância, Arquivo Silencioso e Praça do Olho Imóvel.",
+    "secret": "Investigações, conspirações, arquivos secretos e conflitos entre razão e fé.",
+    "data": {
+      "tags": [
+        "Região"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 39,
+      "document": "lore",
+      "region": "Veylan Nexus",
+      "art": "veylan.jpg"
+    }
+  },
+  {
+    "id": "canon-tsukihana",
+    "kind": "city",
+    "title": "Tsukihana",
+    "summary": "Arquipélago de clãs, ancestrais e juramentos.",
+    "content": "Ilhas montanhosas, cerejeiras, templos e névoa lunar. Regida por clãs e casas espirituais.\n\nClãs: Akaryu, Shirotsuki, Kurogane, Hanamori e Yoruha.\n\nReferências: Kageyama, Templo da Lua Partida, Bosque das Cerejeiras Pálidas, Fortaleza Akaryu, Lago Suspenso de Mizuhara e Portão dos Mil Espíritos.",
+    "secret": "Quebrar juramentos pode gerar maldições reais. A região serve a intrigas entre clãs, duelos e contato indireto com Nyx.",
+    "data": {
+      "tags": [
+        "Região"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 40,
+      "document": "lore",
+      "region": "Tsukihana",
+      "art": "tsukihana.jpg"
+    }
+  },
+  {
+    "id": "canon-sahranur",
+    "kind": "city",
+    "title": "Sahra’Nür",
+    "summary": "Desertos suspensos, contratos e rotas comerciais.",
+    "content": "Ilhas áridas, dunas flutuantes, cidades douradas, bazares e torres astronômicas. Regida por sultanatos, conselhos mercantes e casas de astrônomos.\n\nReferências: Qamarat, Grande Bazar de Miraj, Torres dos Astrônomos, Mar de Areia Suspenso, Ruínas de Zarif, Poço Sem Água e Porto das Velas Carmesins.",
+    "secret": "Pistas secretas, mapas proibidos, pactos, leilões de relíquias e informações sobre o roubo do Núcleo.",
+    "data": {
+      "tags": [
+        "Região"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 42,
+      "document": "lore",
+      "region": "Sahra’Nür",
+      "art": "sahra.jpg"
+    }
+  },
+  {
+    "id": "canon-ilhas-derivantes",
+    "kind": "city",
+    "title": "Ilhas Derivantes",
+    "summary": "Territórios móveis nas correntes celestiais.",
+    "content": "Pequenas ilhas de rotas instáveis e mercados temporários. Abrigam mercadores, fugitivos, contrabandistas, mercenários e cultos sem território.\n\nReferências: Mercado Errante, Atol das Brisas, Ilhas do Sussurro, Ilhéus Âmbar e Canção do Vento.",
+    "secret": "Algumas ilhas seguem padrões previsíveis; outras desaparecem por meses.",
+    "data": {
+      "tags": [
+        "Região"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 43,
+      "document": "lore",
+      "region": "Ilhas Derivantes"
+    }
+  },
+  {
+    "id": "canon-campo-das-ilhas-destrocadas",
+    "kind": "city",
+    "title": "Campo das Ilhas Destroçadas",
+    "summary": "Os restos suspensos da Guerra dos Deuses.",
+    "content": "Zona sem governo, composta de fragmentos de ilhas, ruínas partidas e destroços de navios. A instabilidade é física e espiritual.\n\nReferências: Fenda da Ruptura, Arco Quebrado dos Deuses, Cemitério de Navios Aéreos, Fragmentos da Primeira Guerra e Pedras Suspensas.",
+    "secret": "Relíquias atraem aventureiros e monstros. Há cultistas de Apep e demônios presos em ruínas.",
+    "data": {
+      "tags": [
+        "Região"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 44,
+      "document": "lore",
+      "region": "Campo das Ilhas Destroçadas"
+    }
+  },
+  {
+    "id": "canon-borda-do-abismo",
+    "kind": "city",
+    "title": "Borda do Abismo",
+    "summary": "A fronteira inferior do mundo civilizado.",
+    "content": "Ilhas negras, correntes pendentes, baixa luz e ruínas caídas. Sem governo estável. Abriga exilados, Ossídeos, pactuários, mercenários e anjos caídos.\n\nReferências: Queda Sem Fim, Portões do Submundo, Ilhas Negras, Torre Caída e Correntes Antigas.",
+    "secret": "Fronteira espiritual onde a proteção da alma é mais frágil.",
+    "data": {
+      "tags": [
+        "Região"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 45,
+      "document": "lore",
+      "region": "Borda do Abismo",
+      "art": "borda.jpg"
+    }
+  },
+  {
+    "id": "canon-humanos",
+    "kind": "lore",
+    "title": "Humanos",
+    "summary": "Uma raça adaptável presente em todas as regiões.",
+    "content": "Compensam limitações naturais com aprendizado, invenção e organização social. Sua cultura varia muito: imagem e fé em Elyndar; combate em Vharos; comércio em Sahra’Nür; estudo em Veylan e ritos em Lethra.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Raça"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 47,
+      "document": "lore",
+      "art": "humanos.jpg",
+      "portrait": true
+    }
+  },
+  {
+    "id": "canon-lupir",
+    "kind": "lore",
+    "title": "Lupir",
+    "summary": "Povos lupinos marcados pelo instinto de matilha.",
+    "content": "Valorizam grupo, lealdade e território. Possuem traços de lobo e olfato aguçado. Suas matilhas têm força política em Vharos. Traição é um crime grave e o exílio tem grande peso cultural.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Raça"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 48,
+      "document": "lore",
+      "art": "lupir.jpg",
+      "portrait": true
+    }
+  },
+  {
+    "id": "canon-feliri",
+    "kind": "lore",
+    "title": "Feliri",
+    "summary": "Povos felinos ágeis e independentes.",
+    "content": "Olhos adaptados à baixa luz, cauda, orelhas e reflexos rápidos. Valorizam liberdade, elegância e oportunidade. Atuam em infiltração, performance, comércio e rotas ocultas.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Raça"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 49,
+      "document": "lore",
+      "art": "feliri.jpg",
+      "portrait": true
+    }
+  },
+  {
+    "id": "canon-avaris",
+    "kind": "lore",
+    "title": "Avaris",
+    "summary": "Povos aviários ligados à visão, altura e liberdade.",
+    "content": "Incluem linhagens inspiradas em falcões, corvos, corujas, águias e garças. Nem todos conseguem voar. São comuns como mensageiros, arqueiros, navegadores e vigias.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Raça"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 50,
+      "document": "lore",
+      "art": "avaris.jpg",
+      "portrait": true
+    }
+  },
+  {
+    "id": "canon-reptilianos",
+    "kind": "lore",
+    "title": "Reptilianos",
+    "summary": "Povos pacientes, resistentes e adaptados a regiões hostis.",
+    "content": "Possuem traços de lagartos, serpentes, crocodilos e outros répteis. Valorizam sobrevivência, silêncio e planejamento. Respeitados como guardiões e comerciantes em Sahra’Nür e combatentes em Vharos.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Raça"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 51,
+      "document": "lore",
+      "art": "reptilianos.jpg",
+      "portrait": true
+    }
+  },
+  {
+    "id": "canon-veylans",
+    "kind": "lore",
+    "title": "Veylans",
+    "summary": "Disciplina mental e autocontrole de Veylan Nexus.",
+    "content": "Valorizam razão, precisão e resistência psicológica. Sua cultura subordina emoções à lógica. São conhecidos como estudiosos, estrategistas e investigadores.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Raça"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 52,
+      "document": "lore",
+      "art": "veylans.jpg",
+      "portrait": true
+    }
+  },
+  {
+    "id": "canon-ethereals",
+    "kind": "lore",
+    "title": "Ethereals",
+    "summary": "Seres parcialmente ligados ao plano espiritual.",
+    "content": "Sensíveis a almas, memórias e presenças. Podem ter pele translúcida, brilho sutil ou presença difícil de fixar. Sua origem é debatida; o livro apresenta teorias, não uma explicação definitiva.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Raça"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 53,
+      "document": "lore",
+      "art": "ethereals.jpg",
+      "portrait": true
+    }
+  },
+  {
+    "id": "canon-ossideos",
+    "kind": "lore",
+    "title": "Ossídeos",
+    "summary": "Mortos ou semimortos que mantêm consciência.",
+    "content": "Podem ser esqueletos, cadáveres secos ou corpos mumificados sustentados por energia espiritual. Nem todos são malignos. Memória, dever e promessas inacabadas marcam sua existência.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Raça"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 54,
+      "document": "lore",
+      "art": "ossideos.jpg",
+      "portrait": true
+    }
+  },
+  {
+    "id": "canon-criaturas-e-ameacas",
+    "kind": "lore",
+    "title": "Criaturas e ameaças",
+    "summary": "Celestiais, espirituais, abissais e corrompidas.",
+    "content": "## Celestiais\nSentinelas de luz, autômatos, aves solares e inquisidores angelicais.\n\n## Espirituais\nAparições, possuídos, ecos de memória, sombras de luto e guias deformados. Nem sempre são malignos.\n\n## Abissais\nDemônios menores, anjos caídos deformados, devoradores de alma e pactuários transformados.\n\n## Corrompidas\nSeres cuja alma foi deformada por abuso de bênçãos, quebra de dogmas, pactos, exposição ao Abismo, relíquias ou manipulação espiritual.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Bestiário"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 56,
+      "document": "lore"
+    }
+  },
+  {
+    "id": "canon-mortos-sem-caminho",
+    "kind": "lore",
+    "title": "Mortos sem Caminho",
+    "summary": "Almas e corpos que não completaram a passagem.",
+    "content": "Alma Errante, Cadáver Animado, Possessor, Memória Viva, Ossídeo Recente e Sombra Menor são manifestações comuns.\n\nSeu comportamento varia: alguns atacam, outros pedem ajuda, e alguns nem sabem que morreram.",
+    "secret": "São consequência direta do roubo do Núcleo das Almas.",
+    "data": {
+      "tags": [
+        "Bestiário"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 58,
+      "document": "lore"
+    }
+  },
+  {
+    "id": "canon-conflitos-atuais",
+    "kind": "lore",
+    "title": "Conflitos atuais",
+    "summary": "A crise espiritual que atravessa Aetheris.",
+    "content": "## O roubo do Núcleo\nO Núcleo das Almas foi roubado e o Palácio mantém o fato em segredo.\n\n## A crise dos mortos\nAs almas não partem corretamente. Lethra, Tsukihana e Borda do Abismo são afetadas inicialmente.\n\n## O silêncio dos deuses\nO silêncio preserva autoridade, mas cria tensão entre anjos, sacerdotes e regiões.\n\n## Influência do Abismo\nPactos se tornam mais frequentes e demônios marcam almas vulneráveis.\n\n## Apep\nA instabilidade pode enfraquecer barreiras antigas. Sua sobrevivência fragmentada continua sendo uma possibilidade.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Campanha"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 60,
+      "document": "lore"
+    }
+  },
+  {
+    "id": "canon-linhagem-de-nyx",
+    "kind": "lineage",
+    "title": "Linhagem de Nyx",
+    "summary": "Relações explicitadas no Livro de Lore.",
+    "content": "Nyx é irmã de Hélio, mãe de Lyssandra e teve uma união proibida com Ykarus. A relação de paternidade entre Ykarus e Lyssandra não é afirmada neste trecho e não foi presumida.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Divindades"
+      ],
+      "source": "Aetheris — Livro de Lore (resumo editável)",
+      "sourcePage": 20,
+      "document": "lore",
+      "nodes": [
+        {
+          "id": "nyx",
+          "name": "Nyx",
+          "x": 320,
+          "y": 100,
+          "entryId": "canon-nyx"
+        },
+        {
+          "id": "helio",
+          "name": "Hélio",
+          "x": 50,
+          "y": 100,
+          "entryId": "canon-helio"
+        },
+        {
+          "id": "ykarus",
+          "name": "Ykarus",
+          "x": 600,
+          "y": 100
+        },
+        {
+          "id": "lyssandra",
+          "name": "Lyssandra",
+          "x": 320,
+          "y": 310
+        }
+      ],
+      "edges": [
+        {
+          "id": "a",
+          "from": "nyx",
+          "to": "helio",
+          "type": "sibling"
+        },
+        {
+          "id": "b",
+          "from": "nyx",
+          "to": "ykarus",
+          "type": "partner"
+        },
+        {
+          "id": "c",
+          "from": "nyx",
+          "to": "lyssandra",
+          "type": "parent"
+        }
+      ]
+    }
+  },
+  {
+    "id": "canon-grimorio",
+    "kind": "lore",
+    "title": "Grimório de Aetheris",
+    "summary": "Regras de ficha, criação de poderes e bênçãos divinas.",
+    "content": "A ficha técnica utiliza Força, Destreza, Intelecto, Vontade e Fé. Poderes personalizados combinam dano base, efeito adicional e melhorias.\n\nUse o site FichaAetheris para níveis, poderes, atributos e cálculos. Este arquivo guarda a história, a personalidade, os vínculos e a trajetória dos personagens.",
+    "secret": "",
+    "data": {
+      "tags": [
+        "Referência"
+      ],
+      "source": "Grimório de Aetheris, páginas 1–3",
+      "sourcePage": 1,
+      "document": "grimorio"
+    }
+  }
+]
